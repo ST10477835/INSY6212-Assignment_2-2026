@@ -1,11 +1,11 @@
   <!-- /\* Font Definitions \*/ @font-face {font-family:Wingdings; panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face {font-family:Aptos;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:115%; font-size:12.0pt; font-family:"Aptos",sans-serif;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:36.0pt; line-height:115%; font-size:12.0pt; font-family:"Aptos",sans-serif;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; line-height:115%; font-size:12.0pt; font-family:"Aptos",sans-serif;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; line-height:115%; font-size:12.0pt; font-family:"Aptos",sans-serif;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:36.0pt; line-height:115%; font-size:12.0pt; font-family:"Aptos",sans-serif;} .MsoChpDefault {font-size:12.0pt; font-family:"Aptos",sans-serif;} .MsoPapDefault {margin-bottom:8.0pt; line-height:115%;} @page WordSection1 {size:595.3pt 841.9pt; margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection1 {page:WordSection1;} /\* List Definitions \*/ ol {margin-bottom:0cm;} ul {margin-bottom:0cm;} -->
 
-![](~WRS%7bC0C106F9-8F43-4FB7-83C4-C0370C7399BC%7d.files/image001.png)![Abstract
+![](~WRS%7b2DE18CC5-CB38-41BF-A6BB-8DC12ACE71A6%7d.files/image001.png)![Abstract
 \[Draw your reader in with an engaging abstract. It is typically a short summary of the document. 
 When you’re ready to add your content, just click here and start typing.\]
-](~WRS%7bC0C106F9-8F43-4FB7-83C4-C0370C7399BC%7d.files/image002.png)![INSY6212 ASSIGNMENT 2
+](~WRS%7b2DE18CC5-CB38-41BF-A6BB-8DC12ACE71A6%7d.files/image002.png)![INSY6212 ASSIGNMENT 2
 ST10477835
-](~WRS%7bC0C106F9-8F43-4FB7-83C4-C0370C7399BC%7d.files/image003.png)
+](~WRS%7b2DE18CC5-CB38-41BF-A6BB-8DC12ACE71A6%7d.files/image003.png)
 
 **Scenario**
 
@@ -42,5 +42,3 @@ _To improve service delivery and enhance citizen engagement by developing a Smar
 ·         To decrease response times on municipal issues by developing a Smart Service Portal that will allow residents to log service requests, within 8 months.
 
 ·         To enhance communication on service requests by developing a Smart Service Portal that will send SMS and email notifications to residents.
-
-\[Changes made\]
